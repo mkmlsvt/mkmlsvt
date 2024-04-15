@@ -4,7 +4,7 @@
 <br>
 
 ## About me :blush:
-Hello everyone, I'm Mehmet. Let me talk a little bit about myself. I'm studying at Kastamonu University, I'm in the 4'th year and I'm also working at [Dogus Teknoloji](https://www.d-teknoloji.com.tr/) . I can do web and mobile programming. I know a little about machine learning, my research continues... On the other hand, I read books in my free time and work on algorithms. I love football. I am a person who knows my responsibilities and I try to do what I do in the best way.
+Hello everyone, I'm Mehmet. Let me talk a little bit about myself. I'm working at [Trendyol Technology](https://github.com/Trendyol) as backend developer. I read books in my free time and work on algorithms. I love football. I am a person who knows my responsibilities and I try to do what I do in the best way.
 
 ## React to me
 
